@@ -1,0 +1,10 @@
+Lotek v1.3 – pierwsze wydanie
+
+- Losowanie liczb do: Duży Lotek, Szybkie 600, Eurojackpot, Keno, Multi Multi, Ekstra Pensja, Mini Lotto
+- Tryb „Własne”: dowolny zakres i ilość liczb
+- Keno i Multi Multi: wybór ilości liczb 1–10 (domyślnie 10)
+- Liczby bez powtórzeń, posortowane rosnąco, generator kryptograficzny
+- Animacja spadających kul, kopiowanie wyniku do schowka
+
+Pobierz Lotek.exe poniżej i uruchom – bez instalacji.
+SHA256: <wklej wynik: certutil -hashfile Lotek.exe SHA256>

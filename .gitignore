@@ -1,0 +1,15 @@
+# build Nuitki
+*.exe
+*.build/
+*.dist/
+*.onefile-build/
+build/
+dist/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# IDE
+.idea/
+.vscode/
